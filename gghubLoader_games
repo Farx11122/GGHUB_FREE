@@ -1,1 +1,132 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/U0/main/popitAndPanel", true))()
 
+
+
+local gameId = game.PlaceId
+local popItGameId = 7346416636
+local petsGameId = 7903991471
+local carsGameId = 8216162783
+local mvsdGameId = 12355337193
+local toysGameId = 7503115095
+local AdminrngGameId = 17461365630
+local mm2GameId = 142823291
+local DressTrdGameId = 17893531862
+local FlexFpsGameId = 18667984660
+local emhaGameId = 7711635737
+local hideordieGameId = 18799085098
+local princesstycGameId = 3804735158
+local SupermarketsimGameId = 96462622512177
+local beapaperairplaneGameId = 109543391562036
+local beacentipedeGameId = 18209375211
+local the1mglassbirdgeGameId = 87854376962069
+local dropperincTycoonGameId = 92775789555257
+local SurvivenightmareXChristianXsjGameId = 16896041188
+local CrabGameGameId = 124116468050395
+local SquidGameSeason2GameId = 94663523641506 -- in round not lobby!
+local makevideostobecomerichandfamousGameId = 120444489340872
+local LastToGetSickWinsGameId = 104368835975147
+local GrowAGardenGameID = 126884695634066
+local prtectthehousefromzombiesGameId = 115286378269814
+
+-- dead rails lobby and game
+local deadrailslobbyGameId = 116495829188952
+local deadrailsGameId = 70876832253163
+
+-- spindown Vc And Normal Lobby
+local spindownGameId = 17863864204
+local vcLobbySpindownGameId =123843608435731
+
+-- Bop blodofpunch
+
+local BloodOfPunchGameId = 86230775293861
+local w1GameId = 125067579372958
+local w2GameId = 119696268487200
+local w3GameId = 137535317402998
+local w4GameId = 78606308971979
+local w5GameId = 114268110379653
+
+
+
+
+
+-- the games 
+
+if gameId == popItGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/DupeSsv2"))()
+elseif gameId == petsGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/PetTrading"))()
+elseif gameId == carsGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/CarsTrading"))()
+elseif gameId == mvsdGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/MurderersVsSherrifsMADEBY4Farx"))()
+elseif gameId == toysGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/toys"))()
+elseif gameId == AdminrngGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/AdminRNG"))()
+elseif gameId == mm2GameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/Murderer%20Myster%202"))()
+elseif gameId == DressTrdGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/DressTrad"))()
+elseif gameId == FlexFpsGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/FlexFps"))()
+elseif gameId == emhaGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/EmergencyHamburg_GGHUG"))()
+elseif gameId == hideordieGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Hideordie"))()
+elseif gameId == princesstycGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/PrincessTycoon"))()
+elseif gameId == SupermarketsimGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Supermarketsim"))()
+elseif gameId == beapaperairplaneGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/beapaperairplane"))()
+elseif gameId == beacentipedeGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/BeAcentipede"))()
+elseif gameId == the1mglassbirdgeGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/The_1m_Glass_Bridge"))()
+elseif gameId == dropperincTycoonGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/DropperIncrementalTycoon"))()
+elseif gameId == SurvivenightmareXChristianXsjGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Survive_nightmare_XChristianXsj"))()
+
+-- Blood Of Punch Worlds!!
+
+elseif gameId == BloodOfPunchGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
+elseif gameId == w3GameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
+elseif gameId == w2GameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
+elseif gameId == w1GameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
+elseif gameId == w4GameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
+elseif gameId == w5GameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
+
+-- bundan sonrasi normal oyunlari ekleyerek devam et
+
+elseif gameId == CrabGameGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Crab_game"))()
+elseif gameId == SquidGameSeason2GameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Squid%20Game%20(Season%202)"))()
+elseif gameId == makevideostobecomerichandfamousGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/make%20videos%20to%20become%20rich%20and%20famous"))()
+elseif gameId == spindownGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Spindown"))()
+elseif gameId == vcLobbySpindownGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Spindown"))()
+elseif gameId == deadrailslobbyGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Premium/refs/heads/main/Dead_rails_notif"))()
+elseif gameId == deadrailsGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Dead%20rails"))()
+elseif gameId == LastToGetSickWinsGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/LastTogetSickwins"))()
+elseif gameId == GrowAGardenGameID then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Growagarden%20im%20lazy%20ashell"))()
+elseif gameId == prtectthehousefromzombiesGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
+
+
+else
+warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
+end
