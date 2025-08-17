@@ -28,6 +28,7 @@ local LastToGetSickWinsGameId = 104368835975147
 local GrowAGardenGameID = 126884695634066
 local prtectthehousefromzombiesGameId = 115286378269814
 local unboxabrainrotGameId = 80234405571477
+local sleepyBrainrotsGameId = 88116343972246
 
 -- dead rails lobby and game
 local deadrailslobbyGameId = 116495829188952
@@ -128,6 +129,8 @@ elseif gameId == prtectthehousefromzombiesGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
 elseif gameId == unboxabrainrotGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/UnboxaBrainrot"))()
+elseif gameId == sleepyBrainrotsGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/sleepyBrainrots"))()
 
 
 
