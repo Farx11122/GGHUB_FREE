@@ -1,4 +1,4 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/WS", true))()
+-- loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/WS", true))()
 
 
 
@@ -30,6 +30,7 @@ local prtectthehousefromzombiesGameId = 115286378269814
 local unboxabrainrotGameId = 80234405571477
 local sleepyBrainrotsGameId = 88116343972246
 local BrainrotWarriorsGameId = 86461918682956
+local EvolveToSupremeGameId = 100277587451508
 
 
 -- dead rails lobby and game
@@ -135,6 +136,9 @@ elseif gameId == sleepyBrainrotsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/sleepyBrainrots"))()
 elseif gameId == BrainrotWarriorsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/BrainrotWarriors"))()
+elseif gameId == EvolveToSupremeGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EvolveToSupreme"))()
+
 
 
 
