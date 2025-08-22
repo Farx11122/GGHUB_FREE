@@ -32,7 +32,7 @@ local BrainrotWarriorsGameId = 86461918682956
 local EvolveToSupremeGameId = 100277587451508
 local BankTycoonGameId = 133715486199397
 local FishItGameId = 121864768012064
-
+local climbandslideGameId = 134236244017051
 
 -- dead rails lobby and game
 local deadrailslobbyGameId = 116495829188952
@@ -143,6 +143,9 @@ elseif gameId == BankTycoonGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/BankTycoon"))()
 elseif gameId == FishItGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Fish_it"))()
+elseif gameId == climbandslideGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Climb%20and%20Slide"))()
+
 
 
 else
