@@ -26,8 +26,11 @@ local makevideostobecomerichandfamousGameId = 120444489340872
 local LastToGetSickWinsGameId = 104368835975147
 local GrowAGardenGameID = 126884695634066
 -- World 1 ve 2 protect the house from monsters 
+
 local prtectthehousefromzombiesGameId = 115286378269814
 local prtectthehousefromzombiesWorld2GameId = 129028588391526
+local world2AmaFarkliIdSadeceGameId = 115286378269814
+
 -- Ayirma bosluk bosluk 
 local unboxabrainrotGameId = 80234405571477
 local sleepyBrainrotsGameId = 88116343972246
@@ -136,6 +139,10 @@ elseif gameId == prtectthehousefromzombiesGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
 elseif gameId == 129028588391526 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
+elseif gameId == 115286378269814 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
+
+
 -- Yukaridaki world bir ve iki protect house oyunun
 elseif gameId == unboxabrainrotGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/UnboxaBrainrot"))()
