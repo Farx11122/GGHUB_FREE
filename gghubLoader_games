@@ -25,7 +25,10 @@ local SquidGameSeason2GameId = 94663523641506 -- in round not lobby!
 local makevideostobecomerichandfamousGameId = 120444489340872
 local LastToGetSickWinsGameId = 104368835975147
 local GrowAGardenGameID = 126884695634066
+-- World 1 ve 2 protect the house from monsters 
 local prtectthehousefromzombiesGameId = 115286378269814
+local prtectthehousefromzombiesWorld2GameId = 129028588391526
+-- Ayirma bosluk bosluk 
 local unboxabrainrotGameId = 80234405571477
 local sleepyBrainrotsGameId = 88116343972246
 local BrainrotWarriorsGameId = 86461918682956
@@ -131,6 +134,9 @@ elseif gameId == GrowAGardenGameID then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Growagarden%20im%20lazy%20ashell"))()
 elseif gameId == prtectthehousefromzombiesGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
+elseif gameId == 129028588391526 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
+-- Yukaridaki world bir ve iki protect house oyunun
 elseif gameId == unboxabrainrotGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/UnboxaBrainrot"))()
 elseif gameId == sleepyBrainrotsGameId then
