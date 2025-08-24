@@ -137,6 +137,7 @@ elseif gameId == LastToGetSickWinsGameId then
 elseif gameId == GrowAGardenGameID then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Growagarden%20im%20lazy%20ashell"))()
 elseif gameId == prtectthehousefromzombiesGameId then
+-- assasdaki 3 ayni oyun farkli worldlar
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
 elseif gameId == 129028588391526 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
@@ -159,7 +160,7 @@ elseif gameId == FishItGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Fish_it"))()
 elseif gameId == climbandslideGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Climb%20and%20Slide"))()
-elseif gameId == 118915549367482 then
+elseif gameId == DontWakeTheBrainrotsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DontWakebrainrots"))()
 
 
