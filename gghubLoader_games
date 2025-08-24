@@ -39,6 +39,7 @@ local EvolveToSupremeGameId = 100277587451508
 local BankTycoonGameId = 133715486199397
 local FishItGameId = 121864768012064
 local climbandslideGameId = 134236244017051
+local DontWakeTheBrainrotsGameId = 118915549367482
 
 -- dead rails lobby and game
 local deadrailslobbyGameId = 116495829188952
