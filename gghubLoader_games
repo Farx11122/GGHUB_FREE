@@ -25,7 +25,7 @@ local SquidGameSeason2GameId = 94663523641506 -- in round not lobby!
 local makevideostobecomerichandfamousGameId = 120444489340872
 local LastToGetSickWinsGameId = 104368835975147
 local GrowAGardenGameID = 126884695634066
--- World 1 ve 2 protect the house from monsters 
+-- World 1 ve 2 protect the house from monsters assagidaki3ude
 
 local prtectthehousefromzombiesGameId = 115286378269814
 local prtectthehousefromzombiesWorld2GameId = 129028588391526
@@ -159,6 +159,9 @@ elseif gameId == FishItGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Fish_it"))()
 elseif gameId == climbandslideGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Climb%20and%20Slide"))()
+elseif gameId == DontWakeTheBrainrotsGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DontWakebrainrots"))()
+
 
 
 
