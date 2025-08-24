@@ -159,7 +159,7 @@ elseif gameId == FishItGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Fish_it"))()
 elseif gameId == climbandslideGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Climb%20and%20Slide"))()
-elseif gameId == DontWakeTheBrainrotsGameId then
+elseif gameId == 118915549367482 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DontWakebrainrots"))()
 
 
