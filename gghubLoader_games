@@ -41,7 +41,7 @@ local FishItGameId = 121864768012064
 local climbandslideGameId = 134236244017051
 local DontWakeTheBrainrotsGameId = 118915549367482
 local BuildaGolemArmyGameId = 81525595245099
-
+local feedYourDinoGameId = 136331623669055
 
 --  run fight hide vc ve lobby
 local rfhvcGameId = 103536205513886
@@ -174,6 +174,9 @@ elseif gameId == rfhvcGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/RunHideFight"))()
 elseif gameId == rfhLobbyGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/RunHideFight"))()
+elseif gameId == feedYourDinoGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FeedYourDino"))()
+
 
 else
 warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
