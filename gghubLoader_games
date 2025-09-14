@@ -179,6 +179,9 @@ elseif gameId == feedYourDinoGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FeedYourDino"))()
 elseif gameId == jumpInHoleGamdId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Junpinhole"))()
+
+
+-- steal a brainrot utojoiner Ui
 elseif gameId == 109983668079237 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Finder_Gghubutojoiner"))()
 
