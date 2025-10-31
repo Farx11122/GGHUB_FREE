@@ -183,10 +183,7 @@ elseif gameId == jumpInHoleGamdId then
 
 -- steal a brainrot utojoiner Ui
 elseif gameId == 109983668079237 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/10m"))()
-task.wait(1)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Sab"))()
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/SabAnimalEsp"))()
 else
 warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
 end
