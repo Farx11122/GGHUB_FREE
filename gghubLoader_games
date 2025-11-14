@@ -1,5 +1,5 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/WS", true))()
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Questions"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Questions"))()
 
 local gameId = game.PlaceId
 local popItGameId = 7346416636
