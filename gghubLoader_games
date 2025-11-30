@@ -187,7 +187,7 @@ elseif gameId == 109983668079237 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Sab"))()
 
 elseif gameId == findthebrainrotsGameId then
-print("ho")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FindTheBrainrot"))()
 
 else
 warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
