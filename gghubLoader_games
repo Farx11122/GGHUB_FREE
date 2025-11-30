@@ -64,7 +64,8 @@ local w3GameId = 137535317402998
 local w4GameId = 78606308971979
 local w5GameId = 114268110379653
 
-
+-- assa oyunlari eklemeye dvm et
+local findthebrainrotsGameId = 136407404714539
 
 
 
@@ -178,11 +179,16 @@ elseif gameId == feedYourDinoGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FeedYourDino"))()
 elseif gameId == jumpInHoleGamdId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Junpinhole"))()
-
+-- assadan nornal eklemete ddevam
 
 -- steal a brainrot utojoiner Ui
+-- bunun gameidsi var XxxGameId diye kaydetmedim yukarida ona gore direk id paste
 elseif gameId == 109983668079237 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Sab"))()
+
+elseif gameId == findthebrainrotsGameId then
+print("ho")
+
 else
 warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
 end
