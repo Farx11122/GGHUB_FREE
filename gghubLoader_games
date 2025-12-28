@@ -67,6 +67,7 @@ local w5GameId = 114268110379653
 -- assa oyunlari eklemeye dvm et
 local findthebrainrotsGameId = 136407404714539
 local lastLetterGameId = 129866685202296
+local myFishingBrainrotGameId = 113489516847696
 
 
 -- the games 
@@ -192,6 +193,9 @@ elseif gameId == lastLetterGameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Last%20letter"))()
 elseif gameId == 7983308985 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Last%20letter"))()
+elseif gameId == 7983308985 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/MyFishinhBrainrot"))()
+
 
 else
 warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
