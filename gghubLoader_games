@@ -198,11 +198,8 @@ elseif gameId == 7983308985 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Last%20letter"))()
 elseif gameId == myFishingBrainrotGameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/MyFishinhBrainrot"))()
-elseif gameId == AuraEditTowerGameId then
+elseif gameId == 9040189799 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/MadeByJayden/refs/heads/main/AuraTower"))()
-
-
-
 else
 warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
 end
