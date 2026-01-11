@@ -202,9 +202,8 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/
 elseif gameId == AuraEditTowerGameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/MadeByJayden/refs/heads/main/AuraTower"))()
 elseif gameId == EscapeTsunamiForBrainrotsGameId then
--- loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EscapeTsunamiBrainrot"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EscapeTsunamiBrainrot"))()
 
-print("h")
 else
 warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
 game.StarterGui:SetCore("SendNotification", {
