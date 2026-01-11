@@ -68,6 +68,7 @@ local w5GameId = 114268110379653
 local findthebrainrotsGameId = 136407404714539
 local lastLetterGameId = 129866685202296
 local myFishingBrainrotGameId = 113489516847696
+local EscapeTsunamiForBrainrotsGameId = 131623223084840
 
 -- by Jayden games
 local AuraEditTowerGameId = 129435169164618
@@ -200,9 +201,15 @@ elseif gameId == myFishingBrainrotGameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/MyFishinhBrainrot"))()
 elseif gameId == AuraEditTowerGameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/MadeByJayden/refs/heads/main/AuraTower"))()
-
+elseif gameId == EscapeTsunamiForBrainrotsGameId then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EscapeTsunamiBrainrot"))()
 
 
 else
 warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
+game.StarterGui:SetCore("SendNotification", {
+    Title = "https://discord.gg/WXjY7KJWa6",
+    Text = "GGHUB DOESN' WORK\nIN THIS GAME!",
+    Duration = 33
+})
 end
