@@ -71,6 +71,7 @@ local myFishingBrainrotGameId = 113489516847696
 local EscapeTsunamiForBrainrotsGameId = 131623223084840
 local DeepGameId = 115229209370402
 local escapeFloodGameId = 109252564351478
+local jetpackEvulationGameId = 109252564351478
 
 -- by Jayden games
 local AuraEditTowerGameId = 129435169164618
@@ -209,6 +210,8 @@ elseif gameId == DeepGameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Deep_Game"))()
 elseif gameId == escapeFloodGameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Escape%2B1Flood"))()
+elseif gameId == jetpackEvulationGameId then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/%2B1JetpackEvulation"))()
 
 else
 warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
