@@ -1,0 +1,62 @@
+local ui = loadstring(game:HttpGet('https://pastefy.app/bbexSTeN/raw'))()
+local control = ui:Init(game['CoreGui'], "SpineWare && GG Hub", "rbxassetid://130488529297991")
+local player = game.Players.LocalPlayer
+
+local auto_rebirth = false
+local auto_win = false
+local auto_speed = false
+
+local winCFrame = CFrame.new(-2691.60083, 168.649979, 0.400000393)
+
+local new_button = control:CreateToggle({
+    Name = "Auto Rebirth",
+    Signal = function(bool)
+        auto_rebirth = bool
+    end,
+})
+
+local new_button2 = control:CreateToggle({
+    Name = "Auto Win",
+    Signal = function(bool)
+        auto_win = bool
+    end,
+})
+
+local new_button3 = control:CreateToggle({
+    Name = "Auto Speed",
+    Signal = function(bool)
+        auto_speed = bool
+    end,
+})
+
+task.spawn(function()
+    while task.wait(0.1) do
+        if auto_rebirth then
+            pcall(function()
+                game:GetService("ReplicatedStorage").Events.RequestRebirth:InvokeServer()
+            end)
+            task.wait(0.15)
+        end
+        
+        if auto_win then
+            local character = player.Character
+            if character and character:FindFirstChild("HumanoidRootPart") then
+                character.HumanoidRootPart.CFrame = winCFrame
+                task.wait(0)
+            end
+            task.wait(0)
+        end
+        
+        if auto_speed then
+            for i = 1, 30 do
+                pcall(function()
+                    game:GetService("ReplicatedStorage").Events.AddSpeed:FireServer()
+                end)
+            end
+            task.wait(0)
+        end
+    end
+end)
+
+ui:Start()
+
