@@ -70,7 +70,7 @@ local lastLetterGameId = 129866685202296
 local myFishingBrainrotGameId = 113489516847696
 local EscapeTsunamiForBrainrotsGameId = 131623223084840
 local DeepGameId = 115229209370402
-local escapeFloodGameId = 9568318535 or 77271769255760
+local escapeFloodGameId = 77271769255760
 local jetpackEvulationGameId = 109252564351478
 
 -- by Jayden games
