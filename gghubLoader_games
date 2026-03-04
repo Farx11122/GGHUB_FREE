@@ -74,6 +74,7 @@ local escapeFloodGameId = 77271769255760
 local jetpackEvulationGameId = 109252564351478
 local Demonology1GameId = 18794863104
 local Demonology2GameId = 18199615050
+local escapeAcidForBrainrotsGameId = 110763493035080
 
 -- by Jayden games
 local AuraEditTowerGameId = 129435169164618
@@ -218,6 +219,8 @@ elseif gameId == Demonology1GameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DEMONOLOGY"))()
 elseif gameId == Demonology2GameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DEMONOLOGY"))()
+elseif gameId == escapeAcidForBrainrotsGameId then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EscapeAcidBrainrot"))()
 
 else
 warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
