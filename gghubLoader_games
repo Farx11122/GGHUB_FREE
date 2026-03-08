@@ -1,63 +1,64 @@
+
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/WS", true))()
 
 local gameId = game.PlaceId
-local popItGameId = 7346416636
-local petsGameId = 7903991471
-local carsGameId = 8216162783
-local mvsdGameId = 12355337193
-local toysGameId = 7503115095
-local AdminrngGameId = 17461365630
-local mm2GameId = 142823291
-local DressTrdGameId = 17893531862
-local FlexFpsGameId = 18667984660
-local emhaGameId = 7711635737
-local hideordieGameId = 18799085098
-local princesstycGameId = 3804735158
-local SupermarketsimGameId = 96462622512177
-local beapaperairplaneGameId = 109543391562036
-local beacentipedeGameId = 18209375211
-local the1mglassbirdgeGameId = 87854376962069
-local dropperincTycoonGameId = 92775789555257
+
+-- Main Games
+local popItGameId                         = 7346416636
+local petsGameId                          = 7903991471
+local carsGameId                          = 8216162783
+local mvsdGameId                          = 12355337193
+local toysGameId                          = 7503115095
+local AdminrngGameId                      = 17461365630
+local mm2GameId                           = 142823291
+local DressTrdGameId                      = 17893531862
+local FlexFpsGameId                       = 18667984660
+local emhaGameId                          = 7711635737
+local hideordieGameId                     = 18799085098
+local princesstycGameId                   = 3804735158
+local SupermarketsimGameId                = 96462622512177
+local beapaperairplaneGameId              = 109543391562036
+local beacentipedeGameId                  = 18209375211
+local the1mglassbirdgeGameId              = 87854376962069
+local dropperincTycoonGameId              = 92775789555257
 local SurvivenightmareXChristianXsjGameId = 16896041188
-local CrabGameGameId = 124116468050395
-local SquidGameSeason2GameId = 94663523641506 -- in round not lobby!
+local CrabGameGameId                      = 124116468050395
+local SquidGameSeason2GameId              = 94663523641506
 local makevideostobecomerichandfamousGameId = 120444489340872
-local LastToGetSickWinsGameId = 104368835975147
-local GrowAGardenGameID = 126884695634066
+local LastToGetSickWinsGameId             = 104368835975147
+local GrowAGardenGameID                   = 126884695634066
 
--- World 1 ve 2 protect the house from monsters assagidaki3ude
-
-local prtectthehousefromzombiesGameId = 115286378269814
+-- Protect the House
+local prtectthehousefromzombiesGameId       = 115286378269814
 local prtectthehousefromzombiesWorld2GameId = 129028588391526
+local world2AmaFarkliIdSadeceGameId         = 115286378269814
 
+-- Brainrot Games
+local unboxabrainrotGameId        = 80234405571477
+local sleepyBrainrotsGameId       = 88116343972246
+local BrainrotWarriorsGameId      = 86461918682956
+local EvolveToSupremeGameId       = 100277587451508
+local BankTycoonGameId            = 133715486199397
+local FishItGameId                = 121864768012064
+local climbandslideGameId         = 134236244017051
+local DontWakeTheBrainrotsGameId  = 118915549367482
+local BuildaGolemArmyGameId       = 81525595245099
+local feedYourDinoGameId          = 136331623669055
+local jumpInHoleGamdId            = 110354766943336
 
--- Ayirma bosluk bosluk 
-local unboxabrainrotGameId = 80234405571477
-local sleepyBrainrotsGameId = 88116343972246
-local BrainrotWarriorsGameId = 86461918682956
-local EvolveToSupremeGameId = 100277587451508
-local BankTycoonGameId = 133715486199397
-local FishItGameId = 121864768012064
-local climbandslideGameId = 134236244017051
-local DontWakeTheBrainrotsGameId = 118915549367482
-local BuildaGolemArmyGameId = 81525595245099
-local feedYourDinoGameId = 136331623669055
-local jumpInHoleGamdId = 110354766943336
+-- Run Fight Hide
+local rfhvcGameId     = 103536205513886
+local rfhLobbyGameId  = 135406051460913
 
---  run fight hide vc ve lobby
-local rfhvcGameId = 103536205513886
-local rfhLobbyGameId = 135406051460913
-
--- dead rails lobby and game
+-- Dead Rails
 local deadrailslobbyGameId = 116495829188952
-local deadrailsGameId = 70876832253163
+local deadrailsGameId      = 70876832253163
 
--- spindown Vc And Normal Lobby
-local spindownGameId = 17863864204
-local vcLobbySpindownGameId =123843608435731
+-- Spindown
+local spindownGameId       = 17863864204
+local vcLobbySpindownGameId = 123843608435731
 
--- Bop blodofpunch
-
+-- Blood Of Punch
 local BloodOfPunchGameId = 86230775293861
 local w1GameId = 125067579372958
 local w2GameId = 119696268487200
@@ -65,175 +66,210 @@ local w3GameId = 137535317402998
 local w4GameId = 78606308971979
 local w5GameId = 114268110379653
 
--- assa oyunlari eklemeye dvm et
-local findthebrainrotsGameId = 136407404714539
-local lastLetterGameId = 129866685202296
-local myFishingBrainrotGameId = 113489516847696
-local EscapeTsunamiForBrainrotsGameId = 131623223084840
-local DeepGameId = 115229209370402
-local escapeFloodGameId = 77271769255760
-local jetpackEvulationGameId = 109252564351478
-local Demonology1GameId = 18794863104
-local Demonology2GameId = 18199615050
-local escapeAcidForBrainrotsGameId = 110763493035080
-local flyForBrainrotsGameId = 74277864669743
-local SwingObbyforBrainrotGameId = 114640202062357
+-- Other Games
+local findthebrainrotsGameId           = 136407404714539
+local lastLetterGameId                 = 129866685202296
+local myFishingBrainrotGameId          = 113489516847696
+local EscapeTsunamiForBrainrotsGameId  = 131623223084840
+local DeepGameId                       = 115229209370402
+local escapeFloodGameId                = 77271769255760
+local jetpackEvulationGameId           = 109252564351478
+local Demonology1GameId                = 18794863104
+local Demonology2GameId                = 18199615050
+local escapeAcidForBrainrotsGameId     = 110763493035080
+local flyForBrainrotsGameId            = 74277864669743
+local SwingObbyFotBrainrotGameId       = 114640202062357
 
--- by Jayden games
+-- Jayden Games
 local AuraEditTowerGameId = 129435169164618
 
 
--- the games 
+-- GAME CHECKS
 
 if gameId == popItGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/DupeSsv2"))()
+
 elseif gameId == petsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/PetTrading"))()
+
 elseif gameId == carsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/CarsTrading"))()
+
 elseif gameId == mvsdGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/MurderersVsSherrifsMADEBY4Farx"))()
+
 elseif gameId == toysGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/toys"))()
+
 elseif gameId == AdminrngGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/AdminRNG"))()
+
 elseif gameId == mm2GameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/Murderer%20Myster%202"))()
+
 elseif gameId == DressTrdGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/DressTrad"))()
+
 elseif gameId == FlexFpsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/FlexFps"))()
+
 elseif gameId == emhaGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/EmergencyHamburg_GGHUG"))()
+
 elseif gameId == hideordieGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Hideordie"))()
+
 elseif gameId == princesstycGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/PrincessTycoon"))()
+
 elseif gameId == SupermarketsimGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Supermarketsim"))()
+
 elseif gameId == beapaperairplaneGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/beapaperairplane"))()
+
 elseif gameId == beacentipedeGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/BeAcentipede"))()
+
 elseif gameId == the1mglassbirdgeGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/The_1m_Glass_Bridge"))()
+
 elseif gameId == dropperincTycoonGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/DropperIncrementalTycoon"))()
+
 elseif gameId == SurvivenightmareXChristianXsjGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Survive_nightmare_XChristianXsj"))()
 
--- Blood Of Punch Worlds!!
+-- Blood Of Punch
 
-elseif gameId == BloodOfPunchGameId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
-elseif gameId == w3GameId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
-elseif gameId == w2GameId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
-elseif gameId == w1GameId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
-elseif gameId == w4GameId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
-elseif gameId == w5GameId then
+elseif gameId == BloodOfPunchGameId
+    or gameId == w1GameId
+    or gameId == w2GameId
+    or gameId == w3GameId
+    or gameId == w4GameId
+    or gameId == w5GameId then
+
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Punch_Of_Blood"))()
 
--- bundan sonrasi normal oyunlari ekleyerek devam et
+-- Continue
 
 elseif gameId == CrabGameGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Crab_game"))()
+
 elseif gameId == SquidGameSeason2GameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Squid%20Game%20(Season%202)"))()
+
 elseif gameId == makevideostobecomerichandfamousGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/make%20videos%20to%20become%20rich%20and%20famous"))()
-elseif gameId == spindownGameId then
+
+elseif gameId == spindownGameId or gameId == vcLobbySpindownGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Spindown"))()
-elseif gameId == vcLobbySpindownGameId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Spindown"))()
+
 elseif gameId == deadrailslobbyGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Premium/refs/heads/main/Dead_rails_notif"))()
+
 elseif gameId == deadrailsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Dead%20rails"))()
+
 elseif gameId == LastToGetSickWinsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/LastTogetSickwins"))()
+
 elseif gameId == GrowAGardenGameID then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/refs/heads/main/Growagarden%20im%20lazy%20ashell"))()
-elseif gameId == prtectthehousefromzombiesGameId then
--- assasdaki 3 ayni oyun farkli worldlar
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
-elseif gameId == prtectthehousefromzombiesGameId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
-elseif gameId == prtectthehousefromzombiesWorld2GameId then
+
+-- Protect House
+
+elseif gameId == prtectthehousefromzombiesGameId
+    or gameId == 129028588391526
+    or gameId == 115286378269814 then
+
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
 
+-- Continue
 
--- Yukaridaki world bir ve iki protect house oyunun
 elseif gameId == unboxabrainrotGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/UnboxaBrainrot"))()
+
 elseif gameId == sleepyBrainrotsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/sleepyBrainrots"))()
+
 elseif gameId == BrainrotWarriorsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/BrainrotWarriors"))()
+
 elseif gameId == EvolveToSupremeGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EvolveToSupreme"))()
+
 elseif gameId == BankTycoonGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/BankTycoon"))()
+
 elseif gameId == FishItGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Fish_it"))()
+
 elseif gameId == climbandslideGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Climb%20and%20Slide"))()
+
 elseif gameId == DontWakeTheBrainrotsGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DontWakebrainrots"))()
+
 elseif gameId == BuildaGolemArmyGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/BuildAGolemArmy"))()
-elseif gameId == rfhvcGameId then
+
+elseif gameId == rfhvcGameId or gameId == rfhLobbyGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/RunHideFight"))()
-elseif gameId == rfhLobbyGameId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/RunHideFight"))()
+
 elseif gameId == feedYourDinoGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FeedYourDino"))()
+
 elseif gameId == jumpInHoleGamdId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Junpinhole"))()
--- assadan nornal eklemete ddevam
 
--- steal a brainrot utojoiner Ui
--- bunun gameidsi var XxxGameId diye kaydetmedim yukarida ona gore direk id paste
+-- Extra
+
 elseif gameId == 109983668079237 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Sab"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Sab"))()
 
 elseif gameId == findthebrainrotsGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FindTheBrainrot"))()
-elseif gameId == lastLetterGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Last%20letter"))()
-elseif gameId == 7983308985 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Last%20letter"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FindTheBrainrot"))()
+
+elseif gameId == lastLetterGameId or gameId == 7983308985 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Others/refs/heads/main/Last%20letter"))()
+
 elseif gameId == myFishingBrainrotGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/MyFishinhBrainrot"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/MyFishinhBrainrot"))()
+
 elseif gameId == AuraEditTowerGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/MadeByJayden/refs/heads/main/AuraTower"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/MadeByJayden/refs/heads/main/AuraTower"))()
+
 elseif gameId == EscapeTsunamiForBrainrotsGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EscapeTsunamiBrainrot"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EscapeTsunamiBrainrot"))()
+
 elseif gameId == DeepGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Deep_Game"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Deep_Game"))()
+
 elseif gameId == escapeFloodGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Escape%2B1Flood"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Escape%2B1Flood"))()
+
 elseif gameId == jetpackEvulationGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/%2B1JetpackEvulation"))()
-elseif gameId == Demonology1GameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DEMONOLOGY"))()
-elseif gameId == Demonology2GameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DEMONOLOGY"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/%2B1JetpackEvulation"))()
+
+elseif gameId == Demonology1GameId or gameId == Demonology2GameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DEMONOLOGY"))()
+
 elseif gameId == escapeAcidForBrainrotsGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EscapeAcidBrainrot"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EscapeAcidBrainrot"))()
+
 elseif gameId == flyForBrainrotsGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FlyForBrainrots"))()
-elseif gameId == SwingObbyforBrainrotGameId then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/SwingObbyForBrainrot"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FlyForBrainrots"))()
+
+elseif gameId == SwingObbyFotBrainrotGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/SwingObbyForBrainrot"))()
 
 else
-warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
-game.StarterGui:SetCore("SendNotification", {
-    Title = "https://discord.gg/WXjY7KJWa6",
-    Text = "GGHUB DOESN'T WORK\nIN THIS GAME!",
-    Duration = 60
-})
+    warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
+
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "https://discord.gg/WXjY7KJWa6",
+        Text = "GGHUB DOESN'T WORK\nIN THIS GAME!",
+        Duration = 60
+    })
 end
