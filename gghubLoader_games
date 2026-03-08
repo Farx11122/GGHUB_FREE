@@ -24,11 +24,12 @@ local SquidGameSeason2GameId = 94663523641506 -- in round not lobby!
 local makevideostobecomerichandfamousGameId = 120444489340872
 local LastToGetSickWinsGameId = 104368835975147
 local GrowAGardenGameID = 126884695634066
+
 -- World 1 ve 2 protect the house from monsters assagidaki3ude
 
 local prtectthehousefromzombiesGameId = 115286378269814
 local prtectthehousefromzombiesWorld2GameId = 129028588391526
-local world2AmaFarkliIdSadeceGameId = 115286378269814
+
 
 -- Ayirma bosluk bosluk 
 local unboxabrainrotGameId = 80234405571477
@@ -76,7 +77,8 @@ local Demonology1GameId = 18794863104
 local Demonology2GameId = 18199615050
 local escapeAcidForBrainrotsGameId = 110763493035080
 local flyForBrainrotsGameId = 74277864669743
-local SwingObbyFotBrainrotGameId = 114640202062357
+local SwingObbyforBrainrotGameId = 114640202062357
+
 -- by Jayden games
 local AuraEditTowerGameId = 129435169164618
 
@@ -158,9 +160,9 @@ elseif gameId == GrowAGardenGameID then
 elseif gameId == prtectthehousefromzombiesGameId then
 -- assasdaki 3 ayni oyun farkli worldlar
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
-elseif gameId == 129028588391526 then
+elseif gameId == prtectthehousefromzombiesGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
-elseif gameId == 115286378269814 then
+elseif gameId == prtectthehousefromzombiesWorld2GameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/Protecthousefromzombs"))()
 
 
@@ -224,7 +226,7 @@ elseif gameId == escapeAcidForBrainrotsGameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/EscapeAcidBrainrot"))()
 elseif gameId == flyForBrainrotsGameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FlyForBrainrots"))()
-elseif gameId == SwingObbyFotBrainrotGameId then
+elseif gameId == SwingObbyforBrainrotGameId then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/SwingObbyForBrainrot"))()
 
 else
