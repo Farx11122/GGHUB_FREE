@@ -79,6 +79,7 @@ local Demonology2GameId                = 18199615050
 local escapeAcidForBrainrotsGameId     = 110763493035080
 local flyForBrainrotsGameId            = 74277864669743
 local SwingObbyFotBrainrotGameId       = 114640202062357
+local UnknownMeleeRngGameId            = 99248392277037
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -263,6 +264,9 @@ elseif gameId == flyForBrainrotsGameId then
 
 elseif gameId == SwingObbyFotBrainrotGameId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/SwingObbyForBrainrot"))()
+
+elseif gameId == UnknownMeleeRngGameId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/UnknownMeleeRng"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
