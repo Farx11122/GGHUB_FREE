@@ -82,7 +82,7 @@ local SwingObbyFotBrainrotGameId       = 114640202062357
 local UnknownMeleeRngGameId            = 99248392277037
 local JumptostealluckyblocksId         = 82031770257269
 local JujutsuKaisenIncrementalId       = 79916693834792
-local +1AuraSpeedEscapeId              = 73160984129221
+local AuraSpeedEscapeId                = 73160984129221
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -277,7 +277,7 @@ elseif gameId == JumptostealluckyblocksId then
 elseif gameId == JujutsuKaisenIncrementalId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/JujutsuKaisenIncremental"))()
 
-elseif gameId == +1AuraSpeedEscapeId then
+elseif gameId == AuraSpeedEscapeId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/%2B1AuraSpeedEscape"))()
 
 else
