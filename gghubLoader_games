@@ -81,6 +81,7 @@ local flyForBrainrotsGameId            = 74277864669743
 local SwingObbyFotBrainrotGameId       = 114640202062357
 local UnknownMeleeRngGameId            = 99248392277037
 local JumptostealluckyblocksId         = 82031770257269
+local MyFarmer'sMarket                 = 09404397225572
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -271,6 +272,9 @@ elseif gameId == UnknownMeleeRngGameId then
 
 elseif gameId == JumptostealluckyblocksId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/JumpToStealLuckyBlocks"))()
+
+elseif gameId == MyFarmer'sMarketId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/MyFarmer'sMarket"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
