@@ -81,7 +81,7 @@ local flyForBrainrotsGameId            = 74277864669743
 local SwingObbyFotBrainrotGameId       = 114640202062357
 local UnknownMeleeRngGameId            = 99248392277037
 local JumptostealluckyblocksId         = 82031770257269
-local MyFarmersMarketId                = 109404397225572
+local JujutsuKaisenIncrementalId       = 79916693834792
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -273,8 +273,8 @@ elseif gameId == UnknownMeleeRngGameId then
 elseif gameId == JumptostealluckyblocksId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/JumpToStealLuckyBlocks"))()
 
-elseif gameId == MyFarmersMarketId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/MyFarmersMarket"))()
+elseif gameId == JujutsuKaisenIncrementalId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/JujutsuKaisenIncremental"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
