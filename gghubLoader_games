@@ -85,6 +85,7 @@ local JujutsuKaisenIncrementalId       = 79916693834792
 local AuraSpeedEscapeId                = 73160984129221
 local GetFattoSplashId                 = 130361766615221
 local ShrinkForBrainrotsId             = 82397737462020
+local FlipRocksforBrainrotId           = 107314033610469
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -287,6 +288,9 @@ elseif gameId == GetFattoSplashId then
 
 elseif gameId == ShrinkForBrainrotsId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/ShrinkForBrainrots"))()
+
+elseif gameId == FlipRocksforBrainrotId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/FlipRocksforBrainrot"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
