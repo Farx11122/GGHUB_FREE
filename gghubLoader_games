@@ -87,6 +87,7 @@ local GetFattoSplashId                 = 130361766615221
 local ShrinkForBrainrotsId             = 82397737462020
 local FlipRocksforBrainrotId           = 107314033610469
 local CatchLuckyBlocksFromRiverId      = 87001511805781
+local DigDEEPERforBrainrotsId          = 84514721527976
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -295,6 +296,9 @@ elseif gameId == FlipRocksforBrainrotId then
 
 elseif gameId == CatchLuckyBlocksFromRiverId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/CatchLuckyBlocksFromRiver"))()
+
+elseif gameId == DigDEEPERforBrainrotsId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DigDEEPERforBrainrots"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
