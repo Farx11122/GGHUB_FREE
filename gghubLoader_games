@@ -88,6 +88,7 @@ local ShrinkForBrainrotsId             = 82397737462020
 local FlipRocksforBrainrotId           = 107314033610469
 local CatchLuckyBlocksFromRiverId      = 87001511805781
 local DigDEEPERforBrainrotsId          = 84514721527976
+local DigPerStepId                     = 119604851263654
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -299,6 +300,9 @@ elseif gameId == CatchLuckyBlocksFromRiverId then
 
 elseif gameId == DigDEEPERforBrainrotsId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DigDEEPERforBrainrots"))()
+
+elseif gameId == DigPerStepId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/%2B1DigPerStep"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
