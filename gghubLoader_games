@@ -90,6 +90,7 @@ local CatchLuckyBlocksFromRiverId      = 87001511805781
 local DigDEEPERforBrainrotsId          = 84514721527976
 local DigPerStepId                     = 119604851263654
 local MyBobaStoreId                    = 82338394608938
+local ShootOrShotId                    = 94150622527353
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -307,6 +308,9 @@ elseif gameId == DigPerStepId then
 
 elseif gameId == MyBobaStoreId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/MyBobaStore"))()
+
+elseif gameId == ShootOrShotId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/ShootOrShot"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
