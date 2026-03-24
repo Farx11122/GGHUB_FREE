@@ -306,7 +306,7 @@ elseif gameId == DigPerStepId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/%2B1DigPerStep"))()
 
 elseif gameId == MyBobaStoreId then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/%2B1DigPerStep"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/MyBobaStore"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
