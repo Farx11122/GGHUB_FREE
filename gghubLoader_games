@@ -92,6 +92,7 @@ local DigPerStepId                     = 119604851263654
 local MyBobaStoreId                    = 82338394608938
 local ShootOrShotId                    = 94150622527353
 local PullaBrainrotId                  = 89735961041679
+local BeaLuckyBlockId                  = 124473577469410
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -315,6 +316,9 @@ elseif gameId == ShootOrShotId then
 
 elseif gameId == PullaBrainrotId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/PullaBrainrot"))()
+
+elseif gameId == BeaLuckyBlockId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/BeaLuckyBlock"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
