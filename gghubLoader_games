@@ -325,7 +325,7 @@ elseif gameId == BeaLuckyBlockId then
 elseif gameId == SpinforBrainrotsId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/SpinforBrainrots"))()
 
-elseif gameId == SpinforBrainrotsId then
+elseif gameId == BreakaBrainrotEggId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/BreakaBrainrotEgg"))()
 
 else
