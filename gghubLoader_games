@@ -96,6 +96,7 @@ local BeaLuckyBlockId                  = 124473577469410
 local SpinforBrainrotsId               = 123024529359083
 local BreakaBrainrotEggId              = 119271610514030
 local AuraFarmForBrainrotsId           = 120246452169970
+local SpeedDemonSlayerEscapeId         = 72700818595272
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -331,6 +332,9 @@ elseif gameId == BreakaBrainrotEggId then
 
 elseif gameId == AuraFarmForBrainrotsId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/AuraFarmForBrainrots"))()
+
+elseif gameId == SpeedDemonSlayerEscapeId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/%2B1SpeedDemonSlayerEscape"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
