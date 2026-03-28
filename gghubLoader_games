@@ -95,6 +95,7 @@ local PullaBrainrotId                  = 89735961041679
 local BeaLuckyBlockId                  = 124473577469410
 local SpinforBrainrotsId               = 123024529359083
 local BreakaBrainrotEggId              = 119271610514030
+local AuraFarmForBrainrotsId           = 120246452169970
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -327,6 +328,9 @@ elseif gameId == SpinforBrainrotsId then
 
 elseif gameId == BreakaBrainrotEggId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/BreakaBrainrotEgg"))()
+
+elseif gameId == AuraFarmForBrainrotsId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/AuraFarmForBrainrots"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
