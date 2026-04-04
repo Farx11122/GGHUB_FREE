@@ -98,6 +98,7 @@ local BreakaBrainrotEggId              = 119271610514030
 local AuraFarmForBrainrotsId           = 120246452169970
 local SpeedDemonSlayerEscapeId         = 72700818595272
 local ParkourForBrainrotsId            = 75034791252172
+local HealthPerClickId                 = 122902171482835
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -339,6 +340,9 @@ elseif gameId == SpeedDemonSlayerEscapeId then
 
 elseif gameId == ParkourForBrainrotsId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/ParkourForBrainrots"))()
+
+elseif gameId == HealthPerClickId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/%2B1HealthPerClick"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
