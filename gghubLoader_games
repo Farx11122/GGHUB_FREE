@@ -100,6 +100,7 @@ local SpeedDemonSlayerEscapeId         = 72700818595272
 local ParkourForBrainrotsId            = 75034791252172
 local HealthPerClickId                 = 122902171482835
 local ShootZombiesForBrainrotsId       = 97450904235323
+local PaperAirplaneTrainingId          = 100026678532284
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -347,6 +348,9 @@ elseif gameId == HealthPerClickId then
 
 elseif gameId == ShootZombiesForBrainrotsId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/ShootZombiesForBrainrots"))()
+
+elseif gameId == PaperAirplaneTrainingId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/PaperAirplaneTraining"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
