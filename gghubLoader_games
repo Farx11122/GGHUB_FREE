@@ -102,6 +102,7 @@ local HealthPerClickId                 = 122902171482835
 local ShootZombiesForBrainrotsId       = 97450904235323
 local PaperAirplaneTrainingId          = 100026678532284
 local DingDongDitchABrainrotId         = 74832155507837
+local SpeedBeaLuckyBlockId             = 112259901434347
 
 -- Jayden Games
 local AuraEditTowerGameId = 129435169164618
@@ -355,6 +356,9 @@ elseif gameId == PaperAirplaneTrainingId then
 
 elseif gameId == DingDongDitchABrainrotId then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/DingDongDitchABrainrot"))()
+
+elseif gameId == SpeedBeaLuckyBlockId then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/GGHUB_FREE/refs/heads/main/SpeedBeaLuckyBlock"))()
 
 else
     warn("GG Hub does not support this game | https://discord.gg/WXjY7KJWa6")
